@@ -1,0 +1,27 @@
+Sem Dos 10.0.1.2
+Transactions:                 358121 hits
+Availability:                 100.00 %
+Elapsed time:                3599.80 secs
+Data transferred:             659.54 MB
+Response time:                  0.25 secs
+Transaction rate:              99.48 trans/sec
+Throughput:                     0.18 MB/sec
+Concurrency:                   24.99
+Successful transactions:      358121
+Failed transactions:               0
+Longest transaction:            2.74
+Shortest transaction:           0.07
+
+Com Dos 10.0.1.2
+Transactions:                  10241 hits
+Availability:                  98.55 %
+Elapsed time:                3603.47 secs
+Data transferred:              18.86 MB
+Response time:                  8.16 secs
+Transaction rate:               2.84 trans/sec
+Throughput:                     0.01 MB/sec
+Concurrency:                   23.19
+Successful transactions:       10241
+Failed transactions:             151
+Longest transaction:          177.16
+Shortest transaction:           0.07
