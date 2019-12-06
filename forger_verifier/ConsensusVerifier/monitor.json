@@ -1,0 +1,38 @@
+[
+    {
+        "host" : "10.0.1.2",
+        "port" : "4000",
+        "consensus": 0,
+        "publicKey": "62bbb3c41e43df73de2c3f87e6577d095b84cf6deb1b2d6e87612a9156b980f8",
+        "forging": false,
+        "online": false,
+        "gatewayport": 10000
+    },
+    {
+        "host" : "10.0.2.2",
+        "port" : "4000",
+        "consensus": 0,
+        "publicKey": "62bbb3c41e43df73de2c3f87e6577d095b84cf6deb1b2d6e87612a9156b980f8",
+        "forging": false,
+        "online": false,
+        "gatewayport": 10000
+    },
+    {
+        "host" : "10.0.4.2",
+        "port" : "4000",
+        "consensus": 0,
+        "publicKey": "62bbb3c41e43df73de2c3f87e6577d095b84cf6deb1b2d6e87612a9156b980f8",
+        "forging": false,
+        "online": false,
+        "gatewayport": 10000
+    },
+    {
+        "host" : "172.17.13.229",
+        "port" : "4000",
+        "consensus": 0,
+        "publicKey": "62bbb3c41e43df73de2c3f87e6577d095b84cf6deb1b2d6e87612a9156b980f8",
+        "forging": false,
+        "online": false,
+        "gatewayport": 10000
+    }
+]
