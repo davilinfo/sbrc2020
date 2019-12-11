@@ -1,0 +1,4 @@
+ip: 192.168.249.87
+protocol: udp
+port: 4000
+requests: 190778886

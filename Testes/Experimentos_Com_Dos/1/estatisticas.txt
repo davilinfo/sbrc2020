@@ -1,0 +1,13 @@
+Com Dos 10.0.1.2
+Transactions:                   3404 hits
+Availability:                  76.77 %
+Elapsed time:                3599.80 secs
+Data transferred:              6.27 MB
+Response time:                  4.69 secs
+Transaction rate:               0.95 trans/sec
+Throughput:                     0.00 MB/sec
+Concurrency:                   4.44
+Successful transactions:       3404
+Failed transactions:             1030
+Longest transaction:          181.33
+Shortest transaction:           0.05
